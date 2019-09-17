@@ -1,0 +1,27 @@
+{
+  "name": "zzzz-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chameleonbr/zzzz-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chameleonbr/zzzz-test/issues"
+  },
+  "homepage": "https://github.com/chameleonbr/zzzz-test#readme",
+  "dependencies": {
+    "elasticsearch": "^15.3.1",
+    "ioredis": "^4.14.1",
+    "mongoose": "^5.4.7",
+    "node-fetch": "^2.6.0",
+    "node-rsa": "^1.0.5",
+    "serialize-error": "^4.1.0"
+  }
+}
